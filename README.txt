@@ -1,4 +1,1 @@
-Comments:
-This assignment solidified our understanding on ftp and how to implement a client. 
-We found that get was the most challenging function to implement but in the end, we were able to get everything working.
-
+This project was done in through partner programming. By the end I solidified my understanding on ftp's and how to implement a client through the RFC protocol. Additionally I learned how to deal with socket programming. 
