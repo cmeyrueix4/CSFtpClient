@@ -1,1 +1,1 @@
-This project was done in through partner programming. By the end I solidified my understanding on ftp's and how to implement a client through the RFC protocol. Additionally I learned how to deal with socket programming. 
+This project was done in through pair programming. By the end I solidified my understanding on ftp's and how to implement a client through the RFC protocol. Additionally I learned how to deal with socket programming. 
